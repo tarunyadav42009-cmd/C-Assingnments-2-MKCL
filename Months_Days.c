@@ -33,7 +33,6 @@ int main()
         printf("28 or 29 days (depending on leap year)\n");
         break;
 
-    // Invalid month numbers
     default:
         printf("Invalid input! Please enter a number between 1 and 12.\n");
     }
